@@ -1,4 +1,5 @@
-SELECT  a.nom, a.prenom,
+SELECT 
+CONCAT(a.prenom, ' ', a.nom) AS athlete,
 COUNT(p.id_epreuve) AS nb_epreuves
 FROM athlete a
 JOIN participation p ON p.id_athlete = a.id_athlete
