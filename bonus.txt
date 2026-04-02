@@ -1,0 +1,2 @@
+Afin d'améliorer la base de données on pourrait rajouter d'avantage de précision tel que des cordonnées de contact pour les juges, differencier
+les athlétes selon leurs genre puisque les hommes et les femmes ne concourent pas ensemble et aussi par exemple rajouter des champs de medaille (Or,Argent,Bronze).
